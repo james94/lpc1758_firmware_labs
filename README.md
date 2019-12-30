@@ -24,7 +24,7 @@
   
   - Source Code: 
   
-[lab1_Multi_Tasks](./L5_Application/demo/lab1_Multi_Tasks/)
+[FreeRTOS Multiple Tasks Demo Code](./L5_Application/demo/lab1_Multi_Tasks/)
 
   - Source Code Path:
 
@@ -38,7 +38,7 @@ lpc1758_firmware_labs/L5_Application/demo/lab1_Multi_Tasks/
   
   - Source Code:
 
-[lab2_Gpio](./L5_Application/demo/lab2_Gpio)
+[GPIO Blink LED Demo Code](./L5_Application/demo/lab2_Gpio)
 
   - Source Code Path:
   
@@ -52,7 +52,7 @@ lpc1758_firmware_labs/L5_Application/demo/lab2_Gpio/
   
   - Source Code:
   
-[lab3_Eint](./L5_Application/demo/lab3_Eint)
+[EINT Blink LED Demo Code](./L5_Application/demo/lab3_Eint)
 
   - Source Code Path:
 
@@ -66,7 +66,7 @@ lpc1758_firmware_labs/L5_Application/demo/lab3_Eint/
 
   - Source Code:
   
-[lab4_Adc_Pwm](./L5_Application/demo/lab4_Adc_Pwm)
+[ADC PWM Illuminate RGB LED Demo Code](./L5_Application/demo/lab4_Adc_Pwm)
   
   - Source Code Path:
   
@@ -80,7 +80,7 @@ lpc1758_firmware_labs/L5_Application/demo/lab4_Adc_Pwm/
   
   - Source Code:
   
-[lab5_SSP](./L5_Application/demo/lab5_SSP)
+[SPI Flash Reader Demo Code](./L5_Application/demo/lab5_SSP)
   
   - Source Code Path:
   
@@ -94,7 +94,7 @@ lpc1758_firmware_labs/L5_Application/demo/lab5_SSP/
   
   - Source Code:
   
-[lab6_UART](./L5_Application/demo/lab6_UART)
+[UART Calculator Demo Code](./L5_Application/demo/lab6_UART)
   
   - Source Code Path:
   
@@ -108,7 +108,7 @@ lpc1758_firmware_labs/L5_Application/demo/lab6_UART/
   
   - Source Code:
 
-[lab7_MMA_Tracking](./L5_Application/demo/lab7_MMA_Tracking)
+[MMA Tracking Demo Code](./L5_Application/demo/lab7_MMA_Tracking)
   
   - Source Code Path:
   
@@ -122,7 +122,7 @@ lpc1758_firmware_labs/L5_Application/demo/lab7_MMA_Tracking/
   
   - Driver Source Code:
   
-[I2C Driver Code](./L2_Drivers/base)
+[I2C Driver Demo Code](./L2_Drivers/base)
   
   - Driver Source Code Path:
 
@@ -132,7 +132,7 @@ lpc1758_firmware_labs/L2_Drivers/base/
 
   - User Application Source Code:
 
-[lab8_I2C_Slave_Device](./L5_Application/demo/lab8_I2C_Slave_Device)
+[I2C Slave Memory Demo Code](./L5_Application/demo/lab8_I2C_Slave_Device)
   
   - User Application Source Code Path:
   
@@ -146,7 +146,7 @@ lpc1758_firmware_labs/L5_Application/demo/lab8_I2C_Slave_Device/
   
   - Source Code:
   
-[lab9_Watchdogs](./L5_Application/demo/lab9_Watchdogs)
+[FreeRTOS Watchdogs Demo Code](./L5_Application/demo/lab9_Watchdogs)
   
   - Source Code Path:
   
@@ -166,7 +166,7 @@ For the project, I designed and implemented two frameworks in C/C++: SPI LCD Dis
   
   - Source Code:
   
-[MP3 Player Display Code](./L5_Application/mp3_player/mp3SubApplications/display)
+[MP3 Player Display Demo Code](./L5_Application/mp3_player/mp3SubApplications/display)
   
   - Source Code Path:
   
@@ -180,7 +180,7 @@ lpc1758_firmware_labs/L5_Application/mp3_player/mp3SubApplications/display/
   
   - Source Code:
   
-[MP3 Audio Decoder Code](./L5_Application/mp3_player/mp3SubApplications/audioDecoder)
+[MP3 Audio Decoder Demo Code](./L5_Application/mp3_player/mp3SubApplications/audioDecoder)
   
   - Source Code Path:
   
@@ -194,4 +194,4 @@ lpc1758_firmware_labs/L5_Application/mp3_player/mp3SubApplications/audioDecoder/
 
   - Source Code:
   
-  [MP3 Player Code](./MP3Player)
+  [MP3 Player Demo Code](./MP3Player)
