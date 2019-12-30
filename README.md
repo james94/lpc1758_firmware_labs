@@ -24,7 +24,7 @@
   
   - Source Code: 
   
-https://github.com/james94/lpc1758_firmware_labs/tree/ee76a1ab2dfaac79e6e6f398cae9e46d403dc1cf/L5_Application/demo/lab1_Multi_Tasks
+[lab1_Multi_Tasks](./L5_Application/demo/lab1_Multi_Tasks/)
 
   - Source Code Path:
 
@@ -37,8 +37,8 @@ lpc1758_firmware_labs/L5_Application/demo/lab1_Multi_Tasks/
   - Summary: A **GPIO Driver Class** was created based on the UM10360 datasheet, which is implemented in LabGPIO.hpp and LabGPIO.cpp. This driver class was utilized to build a **Blink LED FreeRTOS Application**. One task **vReadSwitch** was created to read if a switch was pressed and upon being pressed, the task would set a global flag that the other task **vControlLED** would check to control whether **vControlLED** illuminated the LED.
   
   - Source Code:
-  
-https://github.com/james94/lpc1758_firmware_labs/tree/master/L5_Application/demo/lab2_Gpio
+
+[lab2_Gpio](./L5_Application/demo/lab2_Gpio)
 
   - Source Code Path:
   
@@ -52,7 +52,7 @@ lpc1758_firmware_labs/L5_Application/demo/lab2_Gpio/
   
   - Source Code:
   
-https://github.com/james94/lpc1758_firmware_labs/tree/master/L5_Application/demo/lab3_Eint
+[lab3_Eint](./L5_Application/demo/lab3_Eint)
 
   - Source Code Path:
 
@@ -66,7 +66,7 @@ lpc1758_firmware_labs/L5_Application/demo/lab3_Eint/
 
   - Source Code:
   
-https://github.com/james94/lpc1758_firmware_labs/tree/master/L5_Application/demo/lab4_Adc_Pwm
+[lab4_Adc_Pwm](./L5_Application/demo/lab4_Adc_Pwm)
   
   - Source Code Path:
   
@@ -80,7 +80,7 @@ lpc1758_firmware_labs/L5_Application/demo/lab4_Adc_Pwm/
   
   - Source Code:
   
-https://github.com/james94/lpc1758_firmware_labs/tree/master/L5_Application/demo/lab5_SSP  
+[lab5_SSP](./L5_Application/demo/lab5_SSP)
   
   - Source Code Path:
   
@@ -94,7 +94,7 @@ lpc1758_firmware_labs/L5_Application/demo/lab5_SSP/
   
   - Source Code:
   
-https://github.com/james94/lpc1758_firmware_labs/tree/master/L5_Application/demo/lab6_UART
+[lab6_UART](./L5_Application/demo/lab6_UART)
   
   - Source Code Path:
   
@@ -108,7 +108,7 @@ lpc1758_firmware_labs/L5_Application/demo/lab6_UART/
   
   - Source Code:
 
-https://github.com/james94/lpc1758_firmware_labs/tree/master/L5_Application/demo/lab7_MMA_Tracking
+[lab7_MMA_Tracking](./L5_Application/demo/lab7_MMA_Tracking)
   
   - Source Code Path:
   
@@ -122,7 +122,7 @@ lpc1758_firmware_labs/L5_Application/demo/lab7_MMA_Tracking/
   
   - Driver Source Code:
   
-https://github.com/james94/lpc1758_firmware_labs/tree/master/L2_Drivers/base  
+[I2C Driver Code](./L2_Drivers/base)
   
   - Driver Source Code Path:
 
@@ -132,7 +132,7 @@ lpc1758_firmware_labs/L2_Drivers/base/
 
   - User Application Source Code:
 
-https://github.com/james94/lpc1758_firmware_labs/tree/master/L5_Application/demo/lab8_I2C_Slave_Device
+[lab8_I2C_Slave_Device](./L5_Application/demo/lab8_I2C_Slave_Device)
   
   - User Application Source Code Path:
   
@@ -146,7 +146,7 @@ lpc1758_firmware_labs/L5_Application/demo/lab8_I2C_Slave_Device/
   
   - Source Code:
   
-https://github.com/james94/lpc1758_firmware_labs/tree/master/L5_Application/demo/lab9_Watchdogs
+[lab9_Watchdogs](./L5_Application/demo/lab9_Watchdogs)
   
   - Source Code Path:
   
@@ -166,7 +166,7 @@ For the project, I designed and implemented two frameworks in C/C++: SPI LCD Dis
   
   - Source Code:
   
-https://github.com/james94/lpc1758_firmware_labs/tree/master/L5_Application/mp3_player/mp3SubApplications/display
+[MP3 Player Display Code](./L5_Application/mp3_player/mp3SubApplications/display)
   
   - Source Code Path:
   
@@ -180,7 +180,7 @@ lpc1758_firmware_labs/L5_Application/mp3_player/mp3SubApplications/display/
   
   - Source Code:
   
-https://github.com/james94/lpc1758_firmware_labs/tree/master/L5_Application/mp3_player/mp3SubApplications/audioDecoder
+[MP3 Audio Decoder Code](./L5_Application/mp3_player/mp3SubApplications/audioDecoder)
   
   - Source Code Path:
   
@@ -194,4 +194,4 @@ lpc1758_firmware_labs/L5_Application/mp3_player/mp3SubApplications/audioDecoder/
 
   - Source Code:
   
-  https://github.com/james94/lpc1758_firmware_labs/tree/master/MP3Player
+  [MP3 Player Code](./MP3Player)
